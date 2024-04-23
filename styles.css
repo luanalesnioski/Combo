@@ -21,3 +21,10 @@ body{
 .container{
     height: 100vh;
 }
+.container__botão{
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--braco-principal);
+    display: block;
+}
